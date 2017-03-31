@@ -76,6 +76,7 @@ public class MainActivity extends AppCompatActivity {
 
         public void setData(int position) {
             tv.setText(mDatas.get(position));
+//------------------------------------------------------
         }
     }
 }
